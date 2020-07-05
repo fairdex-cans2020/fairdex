@@ -12,7 +12,7 @@ This repository contains a research prototype and evaluation dataset of FairDEx 
 
 ### Installation
 1. Clone git repository
-`git clone https://github.com/.../fairdex.git`
+`git clone https://github.com/fairdex-cans2020/fairdex`
 2. Deploy FairDEx smart contract on Ropsten network. Go to [remix.ethereum.org](remix.ethereum.org) and open [fairdex.sol](fairdex.sol) in Remix IDE. Next, compile the source and deploy the contract.
 3. Edit conf files. Open [sender.conf](sender.conf) and [receiver.conf](receiver.conf) in a text editor and enter required information like Infura URL and contract address.
 
